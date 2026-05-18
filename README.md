@@ -5,9 +5,9 @@
 <p align="center">
   <img align="center" width=50 height=50 src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c71c8055-5263-4e2e-950e-17a52dcbaae1/dbpwj62-b5984ba7-cec8-467a-bb69-0e2f9569db1e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzFjODA1NS01MjYzLTRlMmUtOTUwZS0xN2E1MmRjYmFhZTEvZGJwd2o2Mi1iNTk4NGJhNy1jZWM4LTQ2N2EtYmI2OS0wZTJmOTU2OWRiMWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bn-fmvc6CF3gt9VhShkifP0P_cksbBVucAMUVu7yCYY"> 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒉𝒖𝒎𝒃𝒍𝒆 𝒑𝒓𝒐𝒇𝒊𝒍𝒆, 𝒅𝒆𝒂𝒓𝒆𝒔𝒕 𝒂𝒕𝒕𝒆𝒏𝒅𝒂𝒏𝒕
 </p>
-<img width="300" height="20" alt="image" src="https://github.com/user-attachments/assets/5e45a326-94ff-4986-95f4-9ca7b32d53ab" />
-<img width="300" height="20" alt="image" src="https://github.com/user-attachments/assets/fcfa6049-d839-4de9-975a-819c51e41f65" />
-<img width="300" height="20" alt="image" src="https://github.com/user-attachments/assets/71010367-ce21-4207-8fa3-9c416f42a115" />
+<img width="400" height="20" alt="image" src="https://github.com/user-attachments/assets/5e45a326-94ff-4986-95f4-9ca7b32d53ab" />
+<img width="400" height="20" alt="image" src="https://github.com/user-attachments/assets/fcfa6049-d839-4de9-975a-819c51e41f65" />
+
 
   # 𝐐𝐮𝐢𝐜𝐤 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐟𝐨𝐫 𝐏𝐨𝐧𝐲𝐓𝐨𝐰𝐧 .✦ ݁˖
   <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/14abd60b-689d-446f-8947-3565141913a6" /> ɪ ᴅᴏɴ'ᴛ ᴄᴀʀᴇ ᴡʜᴀᴛ ꜱʜɪᴘ ʏᴏᴜ'ʀᴇ ᴏɴ, ᴊᴜꜱᴛ ᴅᴏɴ'ᴛ ꜰᴏʀᴄᴇ ᴍᴇ ɪꜰ ɪ ᴅᴏɴ'ᴛ ꜱʜᴏᴡ ᴀɴʏ ɪɴᴛᴇʀᴇꜱᴛ.

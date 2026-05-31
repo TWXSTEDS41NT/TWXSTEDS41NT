@@ -1,9 +1,8 @@
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
 <p align="center">
-<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/8471ce71-be88-4b14-be73-f9820a5603cf" />
-
-</p>
-<p align="center"> "𝑰 𝒑𝒓𝒐𝒎𝒊𝒔𝒆 𝑰'𝒍𝒍 𝒏𝒆𝒗𝒆𝒓 𝒃𝒆 𝒋𝒖𝒔𝒕 𝒂 𝒎𝒆𝒎𝒐𝒓𝒚. 𝑵𝒆𝒗𝒆𝒓 𝒍𝒆𝒂𝒗𝒊𝒏𝒈 𝒐𝒖𝒕 𝒐𝒇 𝒚𝒐𝒖𝒓 𝒉𝒆𝒂𝒅. 𝒀𝒐𝒖 𝒌𝒏𝒐𝒘 𝑰'𝒍𝒍 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒂𝒈𝒂𝒊𝒏"
+<p align="center">
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/dedce0ec-99f0-4a60-a21b-43bfc5a18d00" />
+<p align="center"> 𝑳𝒐𝒈𝒐 𝒃𝒚 𝒎𝒆 , 3𝑫 𝒎𝒐𝒅𝒆𝒍 𝒃𝒚 𝒎𝒚 𝒑𝒂𝒑𝒂 𝑲𝒐𝒕𝒂𝒓𝒒 !
 <p align="center">
   <img align="center" width=50 height=50 src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c71c8055-5263-4e2e-950e-17a52dcbaae1/dbpwj62-b5984ba7-cec8-467a-bb69-0e2f9569db1e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzFjODA1NS01MjYzLTRlMmUtOTUwZS0xN2E1MmRjYmFhZTEvZGJwd2o2Mi1iNTk4NGJhNy1jZWM4LTQ2N2EtYmI2OS0wZTJmOTU2OWRiMWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bn-fmvc6CF3gt9VhShkifP0P_cksbBVucAMUVu7yCYY"> 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒉𝒖𝒎𝒃𝒍𝒆 𝒑𝒓𝒐𝒇𝒊𝒍𝒆, 𝒅𝒆𝒂𝒓𝒆𝒔𝒕 𝒂𝒕𝒕𝒆𝒏𝒅𝒂𝒏𝒕
 </p>
@@ -25,5 +24,7 @@
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
 
 <p align="center">
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/dedce0ec-99f0-4a60-a21b-43bfc5a18d00" />
-<p align="center"> 𝑳𝒐𝒈𝒐 𝒃𝒚 𝒎𝒆 , 3𝑫 𝒎𝒐𝒅𝒆𝒍 𝒃𝒚 𝒎𝒚 𝒑𝒂𝒑𝒂 𝑲𝒐𝒕𝒂𝒓𝒒 !
+<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/8471ce71-be88-4b14-be73-f9820a5603cf" />
+
+</p>
+<p align="center"> "𝑰 𝒑𝒓𝒐𝒎𝒊𝒔𝒆 𝑰'𝒍𝒍 𝒏𝒆𝒗𝒆𝒓 𝒃𝒆 𝒋𝒖𝒔𝒕 𝒂 𝒎𝒆𝒎𝒐𝒓𝒚. 𝑵𝒆𝒗𝒆𝒓 𝒍𝒆𝒂𝒗𝒊𝒏𝒈 𝒐𝒖𝒕 𝒐𝒇 𝒚𝒐𝒖𝒓 𝒉𝒆𝒂𝒅. 𝒀𝒐𝒖 𝒌𝒏𝒐𝒘 𝑰'𝒍𝒍 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒂𝒈𝒂𝒊𝒏"

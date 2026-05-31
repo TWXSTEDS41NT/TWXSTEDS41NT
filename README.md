@@ -1,6 +1,7 @@
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
 <p align="center">
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/00afdb8f-dd78-4a22-b48f-db905d5d637d" />
+<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/8471ce71-be88-4b14-be73-f9820a5603cf" />
+
 </p>
 <p align="center"> "𝑰 𝒑𝒓𝒐𝒎𝒊𝒔𝒆 𝑰'𝒍𝒍 𝒏𝒆𝒗𝒆𝒓 𝒃𝒆 𝒋𝒖𝒔𝒕 𝒂 𝒎𝒆𝒎𝒐𝒓𝒚. 𝑵𝒆𝒗𝒆𝒓 𝒍𝒆𝒂𝒗𝒊𝒏𝒈 𝒐𝒖𝒕 𝒐𝒇 𝒚𝒐𝒖𝒓 𝒉𝒆𝒂𝒅. 𝒀𝒐𝒖 𝒌𝒏𝒐𝒘 𝑰'𝒍𝒍 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒂𝒈𝒂𝒊𝒏"
 <p align="center">

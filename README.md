@@ -9,8 +9,6 @@
 </p>
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
 
-
-
   # 𝐐𝐮𝐢𝐜𝐤 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐟𝐨𝐫 𝐏𝐨𝐧𝐲𝐓𝐨𝐰𝐧 .✦ ݁˖
   ❥ ɪ ᴅᴏɴ'ᴛ ᴄᴀʀᴇ ᴡʜᴀᴛ ꜱʜɪᴘ ʏᴏᴜ'ʀᴇ ᴏɴ, ᴊᴜꜱᴛ ᴅᴏɴ'ᴛ ꜰᴏʀᴄᴇ ᴍᴇ ɪꜰ ɪ ᴅᴏɴ'ᴛ ꜱʜᴏᴡ ᴀɴʏ ɪɴᴛᴇʀᴇꜱᴛ.
   
@@ -23,3 +21,9 @@
   ❥ ʏᴇꜱ ᴘʟꜱ ɪ ᴡᴏᴜʟᴅ ᴍᴏʀᴇ ᴛʜᴀɴ ʟᴏᴠᴇ ᴛᴏ ꜱɪᴛᴛɪɴɢ ᴡɪᴛʜ ʏᴏᴜʀ ꜱᴇᴘʜɪʀᴏᴛʜ ꜱᴋɪɴ ɪꜰ ʏᴏᴜ ᴀʟʟᴏᴡᴇᴅ ᴍᴇ ᴛᴏ. ᴜꜱᴜᴀʟʟʏ ɪ ᴅᴏɴ'ᴛ ᴛᴀʟᴋ ᴍᴜᴄʜ ᴀʙᴏᴜᴛ ɪᴛ.
 
   ❥ ʏᴜᴍᴇꜱʜɪᴘ ᴀʀᴇ ᴍᴜᴄʜ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ꜱɪᴛ ᴡɪᴛʜ ᴍᴇ, ᴊᴜꜱᴛ ᴛᴇʟʟ ᴍᴇ ɪꜰ ʏᴏᴜ'ʀᴇ ᴘᴏʟʏ ᴏʀ ɴᴏɴ-ꜱʜᴀʀᴇ ɪꜰ ɪ ꜱɪᴛ ᴀꜱ ʏᴏᴜʀ ꜰ/ᴏ
+
+<img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
+
+<p align="center">
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/dedce0ec-99f0-4a60-a21b-43bfc5a18d00" />
+<p align="center"> 𝑳𝒐𝒈𝒐 𝒃𝒚 𝒎𝒆 , 3𝑫 𝒎𝒐𝒅𝒆𝒍 𝒃𝒚 𝒎𝒚 𝒑𝒂𝒑𝒂 𝑲𝒐𝒕𝒂𝒓𝒒 !

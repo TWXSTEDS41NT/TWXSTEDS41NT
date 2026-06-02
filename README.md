@@ -31,3 +31,8 @@
   
 <p align="center">
 <img width="413" height="552" alt="image" src="https://github.com/user-attachments/assets/93586b90-a192-4f19-88a0-b9f5918c9d1f" />
+<p align="center"> 𝓦𝓱𝓮𝓷 𝓽𝓱𝓮 𝔀𝓪𝓻 𝓸𝓯 𝓽𝓱𝓮 𝓫𝓮𝓪𝓼𝓽𝓼 𝓫𝓻𝓲𝓷𝓰𝓼 𝓪𝓫𝓸𝓾𝓽 𝓽𝓱𝓮 𝔀𝓸𝓻𝓵𝓭'𝓼 𝓮𝓷𝓭
+<p align="center"> 𝓣𝓱𝓮 𝓰𝓸𝓭𝓭𝓮𝓼𝓼 𝓭𝓮𝓼𝓬𝓮𝓷𝓭𝓼 𝓯𝓻𝓸𝓶 𝓽𝓱𝓮 𝓼𝓴𝔂
+<p align="center"> 𝓦𝓲𝓷𝓰𝓼 𝓸𝓯 𝓵𝓲𝓰𝓱𝓽 𝓪𝓷𝓭 𝓭𝓪𝓻𝓴 𝓼𝓹𝓻𝓮𝓪𝓭 𝓪𝓯𝓪𝓻
+<p align="center"> 𝓢𝓱𝓮 𝓰𝓾𝓲𝓭𝓮𝓼 𝓾𝓼 𝓽𝓸 𝓫𝓵𝓲𝓼𝓼, 𝓱𝓮𝓻 𝓰𝓲𝓯𝓽 𝓮𝓿𝓮𝓻𝓵𝓪𝓼𝓽𝓲𝓷𝓰
+<p align="center"> [ 𝑳𝒐𝒗𝒆𝒍𝒆𝒔𝒔 - 𝑷𝒓𝒐𝒍𝒐𝒈𝒖𝒆 ]

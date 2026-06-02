@@ -28,3 +28,6 @@
 
 </p>
 <p align="center"> "𝑰 𝒑𝒓𝒐𝒎𝒊𝒔𝒆 𝑰'𝒍𝒍 𝒏𝒆𝒗𝒆𝒓 𝒃𝒆 𝒋𝒖𝒔𝒕 𝒂 𝒎𝒆𝒎𝒐𝒓𝒚. 𝑵𝒆𝒗𝒆𝒓 𝒍𝒆𝒂𝒗𝒊𝒏𝒈 𝒐𝒖𝒕 𝒐𝒇 𝒚𝒐𝒖𝒓 𝒉𝒆𝒂𝒅. 𝒀𝒐𝒖 𝒌𝒏𝒐𝒘 𝑰'𝒍𝒍 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒂𝒈𝒂𝒊𝒏"
+  
+<p align="center">
+<img width="413" height="552" alt="image" src="https://github.com/user-attachments/assets/93586b90-a192-4f19-88a0-b9f5918c9d1f" />

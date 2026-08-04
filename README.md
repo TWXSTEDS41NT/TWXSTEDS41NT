@@ -1,11 +1,8 @@
+<img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
+<p align="center">
 <img width="2604" height="1988" alt="image" src="https://github.com/user-attachments/assets/ef9874e6-0e17-4c88-b40a-3ed934f907b6" />
 <p align="center"> 𝐀𝐫𝐭 𝐛𝐲 𝐓𝐚𝐞𝐉𝐲𝐢𝐞!
   
-<img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
-<p align="center">
-<p align="center">
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/dedce0ec-99f0-4a60-a21b-43bfc5a18d00" />
-<p align="center"> 𝑳𝒐𝒈𝒐 𝒃𝒚 𝒎𝒆 , 3𝑫 𝒎𝒐𝒅𝒆𝒍 𝒃𝒚 𝒎𝒚 𝒑𝒂𝒑𝒂 𝑲𝒐𝒕𝒂𝒓𝒒 !
 <p align="center">
   <img align="center" width=50 height=50 src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c71c8055-5263-4e2e-950e-17a52dcbaae1/dbpwj62-b5984ba7-cec8-467a-bb69-0e2f9569db1e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzFjODA1NS01MjYzLTRlMmUtOTUwZS0xN2E1MmRjYmFhZTEvZGJwd2o2Mi1iNTk4NGJhNy1jZWM4LTQ2N2EtYmI2OS0wZTJmOTU2OWRiMWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Bn-fmvc6CF3gt9VhShkifP0P_cksbBVucAMUVu7yCYY"> 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒉𝒖𝒎𝒃𝒍𝒆 𝒑𝒓𝒐𝒇𝒊𝒍𝒆, 𝒅𝒆𝒂𝒓𝒆𝒔𝒕 𝒂𝒕𝒕𝒆𝒏𝒅𝒂𝒏𝒕
 </p>

@@ -1,10 +1,6 @@
-<img alt="image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db6yahy-c173055f-c4e4-40ff-aeb4-2cd975a463dc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjI4MzZjYi01ODkzLTRhNmMtYjE1Ni01YTg5ZDk0ZmM3MjEvZGI2eWFoeS1jMTczMDU1Zi1jNGU0LTQwZmYtYWViNC0yY2Q5NzVhNDYzZGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6OzatANl81PXHe28BFfemsEVzMf0F7szKxF15lwuTQw" />
-
-<img alt="image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db1er5m-d681db21-e798-43db-910d-c23ae700fd89.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZjI4MzZjYi01ODkzLTRhNmMtYjE1Ni01YTg5ZDk0ZmM3MjEvZGIxZXI1bS1kNjgxZGIyMS1lNzk4LTQzZGItOTEwZC1jMjNhZTcwMGZkODkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Uio06ktUn98I2S2p99K1Ss_z1sETuWn7p3Q-ZBahw7I" />
-
-𝐈 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐚𝐧𝐨𝐭𝐡𝐞𝐫 𝐎𝐂, 𝐝𝐨𝐧'𝐭 𝐛𝐞 𝐬𝐡𝐲 𝐭𝐨 𝐯𝐢𝐬𝐢𝐭 𝐡𝐢𝐦!
-[Heidi F Pathologist](https://github.com/TWXSTEDS41NT/Heidi.F.Pathologist)
-
+<img width="2604" height="1988" alt="image" src="https://github.com/user-attachments/assets/ef9874e6-0e17-4c88-b40a-3ed934f907b6" />
+<p align="center"> 𝐀𝐫𝐭 𝐛𝐲 𝐓𝐚𝐞𝐉𝐲𝐢𝐞!
+  
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
 <p align="center">
 <p align="center">

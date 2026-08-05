@@ -58,9 +58,3 @@
 <p align="center"> 𝐀𝐫𝐭 𝐛𝐲 𝐀𝐑𝐈𝐌𝐀𝐑𝐔𝐍
 
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
-
-# 𝐌𝐲 𝐀𝐫𝐭 𝐃𝐮𝐦𝐩 𝐂𝐨𝐫𝐧𝐞𝐫
-
-<img width="1104" height="829" alt="image" src="https://github.com/user-attachments/assets/8d9d1416-2d04-49a5-9bd1-106e959c4b0b" />
-<img width="3500" height="1750" alt="image" src="https://github.com/user-attachments/assets/d6883a62-ee43-4c38-b55d-6ef6f34d819d" />
-<img width="1377" height="1377" alt="image" src="https://github.com/user-attachments/assets/d8450946-9f70-427e-b876-e790cb5ed116" />

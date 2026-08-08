@@ -23,19 +23,3 @@
 <p align="center"> [ 𝑳𝒐𝒗𝒆𝒍𝒆𝒔𝒔 - 𝑷𝒓𝒐𝒍𝒐𝒈𝒖𝒆 ]
 
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
-
-# 𝐅𝐚𝐧𝐚𝐫𝐭 𝐃𝐮𝐦𝐩𝐢𝐧𝐠 (𝐂𝐫𝐞𝐝𝐢𝐭 𝐭𝐨 𝐭𝐡𝐞 𝐚𝐫𝐭𝐢𝐬𝐭)
-
-<img width="4096" height="2540" alt="image" src="https://github.com/user-attachments/assets/fc840138-2a44-40d2-bfa4-65f41590bddd" />
-<p align="center"> 𝐀𝐫𝐭 𝐛𝐲 𝐁𝐮𝐭𝐭𝐞𝐫 𝐒𝐮𝐠𝐨𝐢
-<p align="center">
-<img width="663" height="667" alt="image" src="https://github.com/user-attachments/assets/6b97a123-d5d9-47f2-b940-21d13fe6cd6c" />
-<p align="center"> 𝐀𝐫𝐭 𝐛𝐲 𝐏𝐥𝐚𝐭 (𝐕𝐠𝐞𝐧!)
-<p align="center">
-<img width="458" height="512" align="center" alt="image" src="https://github.com/user-attachments/assets/4a16c14b-faaf-4bf0-9098-a09590f46f2b" />
-<p align="center"> 𝐀𝐫𝐭 𝐛𝐲 𝐚𝐛_𝐫𝐨𝐜𝐜𝐨𝐥𝐢
-<p align="center">
-<img width="475" height="720" alt="image" src="https://github.com/user-attachments/assets/c62cfa74-bb2c-4183-b2cd-e937a8ce05f6" />
-<p align="center"> 𝐀𝐫𝐭 𝐛𝐲 𝐀𝐑𝐈𝐌𝐀𝐑𝐔𝐍
-
-<img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />

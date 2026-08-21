@@ -1,3 +1,5 @@
+Short rant (Targetted or not its up to you) — I'm serious when comes long term friendship due to past toxic friends did to me resulting to deep scars and trust issue. However I'm not appreciate whoever lied to me using excuse "see as good friend" while put me on blocklist/avoiding me like a plague. Even if someday you planned to unblock and talk bout it privately, I won't be the same person as you first met. Best to not contact me at all if that's how we ended bcs I'm too tired dealing this shit.
+
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
 <p align="center">
 <img width="2604" height="1988" alt="image" src="https://github.com/user-attachments/assets/ef9874e6-0e17-4c88-b40a-3ed934f907b6" />

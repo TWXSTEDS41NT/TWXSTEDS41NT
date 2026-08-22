@@ -16,11 +16,10 @@ Short rant (Targetted or not its up to you) — I'm serious when comes long term
 <p align="center">
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/33726a6a-937f-46ac-a8c8-1e5407127061" />
 
-<p align="center"> 
+<img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
+<p align="center">
 <img width="619" height="827" alt="image" src="https://github.com/user-attachments/assets/0f761968-79dd-439c-9be3-93e366cadfdc" />
 
-<p align="center">
-<img width="413" height="552" alt="image" src="https://github.com/user-attachments/assets/93586b90-a192-4f19-88a0-b9f5918c9d1f" />
 <p align="center"> 𝓦𝓱𝓮𝓷 𝓽𝓱𝓮 𝔀𝓪𝓻 𝓸𝓯 𝓽𝓱𝓮 𝓫𝓮𝓪𝓼𝓽𝓼 𝓫𝓻𝓲𝓷𝓰𝓼 𝓪𝓫𝓸𝓾𝓽 𝓽𝓱𝓮 𝔀𝓸𝓻𝓵𝓭'𝓼 𝓮𝓷𝓭
 <p align="center"> 𝓣𝓱𝓮 𝓰𝓸𝓭𝓭𝓮𝓼𝓼 𝓭𝓮𝓼𝓬𝓮𝓷𝓭𝓼 𝓯𝓻𝓸𝓶 𝓽𝓱𝓮 𝓼𝓴𝔂
 <p align="center"> 𝓦𝓲𝓷𝓰𝓼 𝓸𝓯 𝓵𝓲𝓰𝓱𝓽 𝓪𝓷𝓭 𝓭𝓪𝓻𝓴 𝓼𝓹𝓻𝓮𝓪𝓭 𝓪𝓯𝓪𝓻

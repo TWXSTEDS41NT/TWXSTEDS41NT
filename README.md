@@ -3,6 +3,8 @@ Short rant (Targetted or not its up to you) — I'm serious when comes long term
 <p align="center">
 Update 1 cuz someone just sent their bird to me, no I don't want you both to "clear things out" via discord. Idk if your friend sent you a final letter from before unfriending them as well, I won't ask to get unblocked bcs I'm tired GENERALLY. I'm tired of being cared and then drained for granted just ended up left without any goodbyes or explanation. Now you wanna clear things out after left me confusion and heartbroken? What I will expect to see was more excuses coming from your mouth with reason "we're drained emotionally/mentally", that's more than enough I just heard from you. On bright side? I'm so glad the person yall blocked before came up to me and reassured when I'm at verge of quitting, the person y'all thought was evil still have moral towards me and help while I was completely alone. Take this as poor 2 cent from me cuz you're now broke my trust when I getting comfortable with you.
 
+<img width="558" height="680" alt="image" src="https://github.com/user-attachments/assets/f7b2f5b0-fa10-4d71-af0e-c7e1c5a791cd" />
+
 <img width="2048" height="426" alt="image" src="https://github.com/user-attachments/assets/5dadb6b3-d983-4db7-a443-715e0709b97f" />
 <p align="center">
 <img width="2604" height="1988" alt="image" src="https://github.com/user-attachments/assets/ef9874e6-0e17-4c88-b40a-3ed934f907b6" />

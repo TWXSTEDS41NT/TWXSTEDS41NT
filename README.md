@@ -1,4 +1,4 @@
-Eh, just ignore them. They will tone down later and move on
+ɢᴏᴏᴅ ʙᴏʏ, ɴᴏᴡ ʏᴏᴜ ᴅᴇꜱᴇʀᴠᴇ ꜱᴏᴍᴇ ᴛʀᴇᴀᴛ 🦴
 
 <div align="center">
   

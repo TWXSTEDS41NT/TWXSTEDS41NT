@@ -1,4 +1,4 @@
-ɢᴏᴏᴅ ʙᴏʏ, ɴᴏᴡ ʏᴏᴜ ᴅᴇꜱᴇʀᴠᴇ ꜱᴏᴍᴇ ᴛʀᴇᴀᴛ 🦴
+indefinite hiatus from PT
 
 <div align="center">
   

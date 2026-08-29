@@ -1,6 +1,8 @@
 <h1 align="center">" 𝕴 𝖉𝖔𝖓'𝖙 𝖙𝖍𝖎𝖓𝖐 𝖞𝖔𝖚 𝖘𝖍𝖔𝖚𝖑𝖉 𝖇𝖊 𝖍𝖊𝖗𝖊, 𝖒𝖞 𝖉𝖊𝖆𝖗 𝖆𝖙𝖙𝖊𝖓𝖉𝖆𝖓𝖙𝖘 "</h1>
 
 <img width="1750" height="875" alt="image" src="https://github.com/user-attachments/assets/295a03c5-1666-4703-b116-492d7795b934" />
+<h1 align="center">  </h1>
+
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=784796&label=Lost+Souls)

@@ -1,7 +1,6 @@
-<h1 align="center">" 𝕴 𝖉𝖔𝖓'𝖙 𝖙𝖍𝖎𝖓𝕶 𝖞𝖔𝖚 𝖘𝖍𝖔𝖚𝖑𝖉 𝖇𝖊 𝖍𝖊𝖗𝖊, 𝖒𝖞 𝖉𝖊𝖆𝖗 𝖆𝖙𝖙𝖊𝖓𝖉𝖆𝖓𝖙𝖘 "</h1>
+<h1 align="center">" 𝕴 𝖆𝖒... 𝖞𝖔𝖚𝖗 𝖊𝖛𝖊𝖗𝖞𝖙𝖍𝖎𝖓𝖌 "</h1>
 
-<img width="1828" height="1115" alt="image" src="https://github.com/user-attachments/assets/ff7a75f9-2d16-44ca-8502-70a1e22d4c03" />
-<h1 align="center">  </h1>
+<img width="1377" height="1377" alt="sefi" src="https://github.com/user-attachments/assets/5353c114-0b8b-42f0-8799-6c568d2c39b1" />
 
 <p align="center">
 "𝕴 𝖑𝖔𝖆𝖙𝖍𝖊 𝖒𝖞 𝖔𝖜𝖓 𝖑𝖎𝖋𝖊 ;

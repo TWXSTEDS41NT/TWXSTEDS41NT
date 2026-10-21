@@ -1,4 +1,7 @@
 <p align="center">
+<img width="1767" height="400" alt="border" src="https://github.com/user-attachments/assets/54bd34ae-27a5-484d-af44-b8f22dd3a98b" />
+
+<p align="center">
 <img width="689" height="689" alt="sefi" src="https://github.com/user-attachments/assets/5353c114-0b8b-42f0-8799-6c568d2c39b1" />
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=30&duration=5001&pause=1000&color=87ACE7&center=true&vCenter=true&width=700&lines=%22Keep+looking%2C+or+perhaps+I+could+carve+one+into+you%22)](https://git.io/typing-svg)

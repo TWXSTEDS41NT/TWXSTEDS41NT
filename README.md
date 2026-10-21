@@ -11,8 +11,10 @@
 <p align="center">
 𝚅𝚐𝚎𝚗 𝚊𝚛𝚝𝚒𝚜𝚝 • 𝙾𝙲 𝚖𝚊𝚔𝚎𝚛 
 <p align="center">
-𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽
-  
+𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽 𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝚜𝚑𝚊𝚛𝚎
+<p align="center">
+<img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/42fb9aad5a6b25362c8c6952c1530d4c/9be5ce22e6f6127b-8a/s1280x1920/d856239de65c8538d5ae0078f59ae23c3f027dc7.gifv" />
+<img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/ce5b6f3f0211da1168178bbeaa9013c3/98190e248365d9c4-ea/s540x810/cbe994224492b43abd659214901eb6c8c8f5c9b3.gifv" />
 </details>
 </div>
 
@@ -49,8 +51,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/WHISP2INT/AFK-ㄨ-844454?style=flat-square" />
 </p>
-
-<p align="center">
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/b1b683a6-d4c3-42e9-9eaf-cca964c15cc3" />
-
 

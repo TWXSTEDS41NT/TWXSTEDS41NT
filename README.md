@@ -1,8 +1,6 @@
-<h1 align="center">" 𝕴 𝖆𝖒... 𝖞𝖔𝖚𝖗 𝖊𝖛𝖊𝖗𝖞𝖙𝖍𝖎𝖓𝖌 "</h1>
-
 <img width="1377" height="1377" alt="sefi" src="https://github.com/user-attachments/assets/5353c114-0b8b-42f0-8799-6c568d2c39b1" />
 
-<h1 align="center">" 𝕶𝖊𝖊𝖕 𝖑𝖔𝖔𝕶𝖎𝖓𝖌, 𝖔𝖗 𝖕𝖊𝖗𝖍𝖆𝖕𝖘 𝕴 𝖈𝖔𝖚𝖑𝖉 𝖈𝖆𝖗𝖛𝖊 𝖔𝖓𝖊 𝖎𝖓𝖙𝖔 𝖞𝖔𝖚... "</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=30&duration=5001&pause=1000&color=87ACE7&center=true&vCenter=true&width=700&lines=%22Keep+looking%2C+or+perhaps+I+could+carve+one+into+you%22)](https://git.io/typing-svg)
 
 <div align="center">
 <details>

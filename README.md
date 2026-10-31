@@ -1,7 +1,6 @@
 <p align="center">
 <img width="1377" height="1377" alt="image" src="https://github.com/user-attachments/assets/d1140068-52fa-4a56-bea5-866d9b9b5950" />
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=30&duration=5001&pause=1000&color=87ACE7&center=true&vCenter=true&width=700&lines=%22Keep+looking%2C+or+perhaps+I+could+carve+one+into+you%22)](https://git.io/typing-svg)
 
 <p align="center">

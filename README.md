@@ -21,14 +21,7 @@
 
 <h1 align="center">  </h1>
 
-<h1 align="center">𝕺𝖛𝖊𝖗𝖛𝖎𝖊𝖜 𝖕𝖔𝖓𝖞𝖙𝖔𝖜𝖓</h1>
+<h1 align="center">1𝖘𝖙 𝕮𝖑𝖆𝖘𝖘 𝕮𝖗𝖆𝖈𝕶𝖍𝖊𝖆𝖉</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Online-〇-4b9953?style=flat-square&logo=psychology&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/DNIUF/PARTY-☾-e3cba4?style=flat-square" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/WHISP2INT/AFK-ㄨ-844454?style=flat-square" />
-</p>
-
+<img width="551" height="482" alt="trios" src="https://github.com/user-attachments/assets/bc316b46-676c-4053-a529-9979f82d3a63" />
+<p align="center"> THIS FUCKING GITHUB WON'T LET ME ATTACH LINK TO IT PMO AUGHHHHHH

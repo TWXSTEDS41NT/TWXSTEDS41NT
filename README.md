@@ -11,7 +11,7 @@
 𝙻𝚘𝚛𝚎𝚒𝚗𝚔🪽 • 𝚜𝚑𝚎/𝚝𝚑𝚎𝚢 • 21+ 𝚢.𝚘
 <p align="center">
 𝚅𝚐𝚎𝚗 𝚊𝚛𝚝𝚒𝚜𝚝 • 𝙾𝙲 𝚖𝚊𝚔𝚎𝚛 
-<p align="center"> [𝙿𝚘𝚗𝚢𝚝𝚘𝚠𝚗'𝚜](https://github.com/pt-hall-of-media) 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑
+<p align="center"> 𝙿𝚘𝚗𝚢𝚝𝚘𝚠𝚗'𝚜 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑
 <p align="center"> 
 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽 𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝚜𝚑𝚊𝚛𝚎
 <p align="center">

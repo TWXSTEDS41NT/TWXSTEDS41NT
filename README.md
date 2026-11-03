@@ -30,7 +30,7 @@
 <a href="https://github.com/MIKALJI">𝕸𝖎𝕶𝖆𝖑𝖏𝖎</a>
 </div>
 
-<img width="2048" height="522" alt="banner" src="https://github.com/user-attachments/assets/5aaa24ef-cd74-4ff1-93c7-077887598707" />
+<img width="2048" height="522" alt="banner" src="https://github.com/user-attachments/assets/d7fc8694-8db4-4ca3-ab67-a06e3f1a66a6" />
 
 <details>
 <summary>𝕸𝖞 𝕯𝖆𝖗𝖑𝖎𝖓𝖌𝖘</summary>

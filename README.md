@@ -29,3 +29,22 @@
   🍻
 <a href="https://github.com/MIKALJI">𝕸𝖎𝕶𝖆𝖑𝖏𝖎</a>
 </div>
+
+<img width="2048" height="522" alt="banner" src="https://github.com/user-attachments/assets/5aaa24ef-cd74-4ff1-93c7-077887598707" />
+
+<details>
+<summary>𝕸𝖞 𝕯𝖆𝖗𝖑𝖎𝖓𝖌𝖘</summary>
+<a href="https://github.com/falseprecedent">𝚁𝚎𝚛𝚢𝚗/𝚉𝚎𝚕𝚎𝚒</a> 
+<a href="https://github.com/CookieBonBon">𝙲𝚘𝚘𝚔𝚒𝚎𝚋𝚘𝚗</a> ,
+<a href="https://github.com/xooshi">𝚇𝚢𝚕</a> ,
+<a href="https://github.com/S0ULCAPTXRE">𝙽𝚎𝚜𝚜</a> ,
+<a href="https://github.com/mydeifies">𝙲𝚊𝚜𝚜𝚢</a> (𝚙𝚕𝚜 𝚌𝚘𝚖𝚎𝚋𝚊𝚌𝚔 𝙸 𝚖𝚒𝚜𝚜 𝚞 💔) ,
+<a href="https://github.com/phainonirl">𝚈𝚒𝚗𝚕𝚎</a> ,
+<a href="https://github.com/Aku-romo">𝙰𝚔𝚞</a> ,
+<a href="https://github.com/Navistel">𝙽𝚊𝚟𝚒</a> ,
+<a href="https://github.com/Stars-Traveler">𝚂𝚝𝚊𝚛</a> ,
+<a href="https://github.com/DearMeii">𝙼𝚎𝚒𝚒</a> ,
+<a href="https://github.com/thefa1thful">𝙲𝚊𝚕𝚡</a> ,
+<a href="https://github.com/reiningcloud">𝚁𝚎𝚒</a> 
+
+</details>

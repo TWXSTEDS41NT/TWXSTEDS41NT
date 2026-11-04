@@ -1,7 +1,10 @@
 <p align="center">
 <img width="1377" height="1377" alt="image" src="https://github.com/user-attachments/assets/d1140068-52fa-4a56-bea5-866d9b9b5950" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=30&duration=5001&pause=1000&color=87ACE7&center=true&vCenter=true&width=700&lines=%22Keep+looking%2C+or+perhaps+I+could+carve+one+into+you%22)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&size=29&pause=1000&color=87ACE7&center=true&multiline=true&width=770&height=75&lines=Home+sweet+home%2C+right%3F+;Tell+me+how+does+it+feel.+I+don't+have+home%2C+so+I+wouldn't+know." alt="Typing SVG" /></a>
+
+<h1 align="center"> </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=708FC0&style=for-the-badge&label=THE+LOST+SOULS" alt="Profile Views" />
@@ -18,8 +21,17 @@
 <p align="center">
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/42fb9aad5a6b25362c8c6952c1530d4c/9be5ce22e6f6127b-8a/s1280x1920/d856239de65c8538d5ae0078f59ae23c3f027dc7.gifv" />
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/ce5b6f3f0211da1168178bbeaa9013c3/98190e248365d9c4-ea/s540x810/cbe994224492b43abd659214901eb6c8c8f5c9b3.gifv" />
-<img width="683" height="483" alt="HJUNrg1bcAEVxkj" src="https://github.com/user-attachments/assets/f3649189-2ffe-47b9-b7cf-19b42dd6569d" />
 </div>
+
+<h1 align="center">𝖕𝖔𝖓𝖞𝖙𝖔𝖜𝖓 𝖇𝖔𝖚𝖓𝖉𝖆𝖗𝖎𝖊𝖘</h1>
+𝐀𝐥𝐰𝐚𝐲𝐬 𝐀𝐅𝐊 (𝐖2𝐈 𝐫𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐞𝐝) ✦ 𝐂+𝐇 𝐚𝐥𝐥𝐨𝐰𝐞𝐝 𝐢𝐟 𝐈 𝐬𝐢𝐭 𝐚𝐥𝐨𝐧𝐞 ✦ 𝐌𝐮𝐥𝐭𝐢𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬 ✦ 𝐘𝐮𝐦𝐞𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬 (𝐟𝐫𝐢𝐞𝐧𝐝 𝐨𝐧𝐥𝐲) ✦ 𝐍𝐨 𝐑𝐨𝐥𝐞𝐩𝐥𝐚𝐲 (𝐈'𝐦 𝐛𝐚𝐝 𝐚𝐭 𝐢𝐭) ✦ 𝐆𝐢𝐟𝐭 𝐦𝐞 𝐒𝐞𝐩𝐡𝐢𝐫𝐨𝐭𝐡 𝐬𝐤𝐢𝐧 𝐢𝐟 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐢𝐭, 𝐈'𝐥𝐥 𝐜𝐫𝐞𝐝𝐢𝐭 𝐢𝐭
+
+<p align="center">
+<details>
+<summary> .ᐟ.ᐟ 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 .ᐟ.ᐟ </summary>
+𝐈'𝐦 𝐥𝐚𝐜𝐤 𝐨𝐟 𝐞𝐦𝐩𝐚𝐭𝐡𝐲 𝐬𝐨 𝐛𝐞𝐬𝐭 𝐭𝐨 𝐧𝐨𝐭 𝐚𝐭𝐭𝐚𝐜𝐡 ✦ 𝐌𝐨𝐬𝐭 𝐨𝐟 𝐦𝐲 𝐡𝐨𝐧𝐞𝐬𝐭 𝐰𝐨𝐫𝐝/𝐨𝐩𝐢𝐧𝐢𝐨𝐧 𝐬𝐨𝐮𝐧𝐝 𝐫𝐮𝐝𝐞, 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐢𝐭 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐥𝐲 ✦ 𝐁𝐥𝐨𝐜𝐤 𝐟𝐫𝐞𝐞𝐥𝐲 </a>!
+</details>
+
 
 <h1 align="center">1𝖘𝖙 𝕮𝖑𝖆𝖘𝖘 𝕮𝖗𝖆𝖈𝕶𝖍𝖊𝖆𝖉</h1>
 <p align="center">
@@ -30,10 +42,9 @@
 <a href="https://github.com/MIKALJI">𝕸𝖎𝕶𝖆𝖑𝖏𝖎</a>
 </div>
 
-<img width="2048" height="522" alt="banner" src="https://github.com/user-attachments/assets/d7fc8694-8db4-4ca3-ab67-a06e3f1a66a6" />
-
+<p align="center">
 <details>
-<summary>𝕸𝖞 𝕯𝖆𝖗𝖑𝖎𝖓𝖌𝖘</summary>
+<summary>𝕸𝖞 𝕯𝖆𝖗𝖑𝖎𝖓𝖌𝖘 .ᐟ.ᐟ </summary>
 <a href="https://github.com/falseprecedent">𝚁𝚎𝚛𝚢𝚗/𝚉𝚎𝚕𝚎𝚒</a> 
 <a href="https://github.com/CookieBonBon">𝙲𝚘𝚘𝚔𝚒𝚎𝚋𝚘𝚗</a> ,
 <a href="https://github.com/xooshi">𝚇𝚢𝚕</a> ,
@@ -46,5 +57,4 @@
 <a href="https://github.com/DearMeii">𝙼𝚎𝚒𝚒</a> ,
 <a href="https://github.com/thefa1thful">𝙲𝚊𝚕𝚡</a> ,
 <a href="https://github.com/reiningcloud">𝚁𝚎𝚒</a> 
-
 </details>

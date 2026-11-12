@@ -1,27 +1,28 @@
 <table>
   <tr>
-    <td><img width="464" height="623" alt="image" src="https://github.com/user-attachments/assets/eec1d918-9e55-41e8-afa0-e3fd257ce616" />
-    <td> one moment cuh wip </td>
-  </tr>
-</table>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Germania+One&size=25&duration=5510&pause=1000&color=8C83E7&center=true&width=500&lines=Now+home+the+soldiers%2C+now+the+fallen+leaves;Farewell%2C+go+somewhere+bright+meteors+lead;Now+sounds+the+nocturne+from+a+memory;And+the+night+slips+into+my+woven+dream" alt="Typing SVG" /></a>
-  
-<h1 align="center"> </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=8C83E7&style=for-the-badge&label=FALLEN+SOLDIERS" alt="Profile Views" />
-</p>
-
-<div align="center">
+    <td><img width="620" height="831" alt="image" src="https://github.com/user-attachments/assets/eec1d918-9e55-41e8-afa0-e3fd257ce616" />
+    <td><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f8f2aeb6-c020-4ed3-8814-5e52395d39c6" />
+    <div align="center">
 𝙻𝚘𝚛𝚎𝚒𝚗𝚔🪽 • 𝚜𝚑𝚎/𝚝𝚑𝚎𝚢 • 21+ 𝚢.𝚘
 <p align="center">
 𝚅𝚐𝚎𝚗 𝚊𝚛𝚝𝚒𝚜𝚝 • 𝙾𝙲 𝚖𝚊𝚔𝚎𝚛 
 <div align="center"> 
 <a href="https://github.com/pt-hall-of-media">𝙿𝚘𝚗𝚢𝚝𝚘𝚠𝚗'𝚜 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑</a>
-<p align="center"> 
-𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽 𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝚜𝚑𝚊𝚛𝚎
+<p align="center"> 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽
+𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝚜𝚑𝚊𝚛𝚎
+</td>
+  </tr>
+</table>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Germania+One&size=25&duration=5510&pause=1000&color=8C83E7&center=true&width=500&lines=Now+home+the+soldiers%2C+now+the+fallen+leaves;Farewell%2C+go+somewhere+bright+meteors+lead;Now+sounds+the+nocturne+from+a+memory;And+the+night+slips+into+my+woven+dream" alt="Typing SVG" /></a>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=8C83E7&style=for-the-badge&label=FALLEN+SOLDIERS" alt="Profile Views" />
+</p>
+
+<h1 align="center"> </h1>
+
 <p align="center">
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/42fb9aad5a6b25362c8c6952c1530d4c/9be5ce22e6f6127b-8a/s1280x1920/d856239de65c8538d5ae0078f59ae23c3f027dc7.gifv" />
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/ce5b6f3f0211da1168178bbeaa9013c3/98190e248365d9c4-ea/s540x810/cbe994224492b43abd659214901eb6c8c8f5c9b3.gifv" />

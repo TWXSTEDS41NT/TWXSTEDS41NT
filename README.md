@@ -1,5 +1,9 @@
-<p align="center">
-<img width="927" height="1246" alt="image" src="https://github.com/user-attachments/assets/eec1d918-9e55-41e8-afa0-e3fd257ce616" />
+<table>
+  <tr>
+    <td><img width="464" height="623" alt="image" src="https://github.com/user-attachments/assets/eec1d918-9e55-41e8-afa0-e3fd257ce616" />
+    <td> one moment cuh wip </td>
+  </tr>
+</table>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Germania+One&size=25&duration=5510&pause=1000&color=8C83E7&center=true&width=500&lines=Now+home+the+soldiers%2C+now+the+fallen+leaves;Farewell%2C+go+somewhere+bright+meteors+lead;Now+sounds+the+nocturne+from+a+memory;And+the+night+slips+into+my+woven+dream" alt="Typing SVG" /></a>

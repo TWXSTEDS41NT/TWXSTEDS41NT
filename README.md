@@ -1,13 +1,13 @@
 <p align="center">
-<img width="1377" height="1377" alt="image" src="https://github.com/user-attachments/assets/d1140068-52fa-4a56-bea5-866d9b9b5950" />
+<img width="927" height="1246" alt="image" src="https://github.com/user-attachments/assets/eec1d918-9e55-41e8-afa0-e3fd257ce616" />
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&size=29&pause=1000&color=87ACE7&center=true&multiline=true&width=770&height=75&lines=Home+sweet+home%2C+right%3F+;Tell+me+how+does+it+feel.+I+don't+have+home%2C+so+I+wouldn't+know." alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Germania+One&size=25&duration=5510&pause=1000&color=8C83E7&center=true&width=500&lines=Now+home+the+soldiers%2C+now+the+fallen+leaves;Farewell%2C+go+somewhere+bright+meteors+lead;Now+sounds+the+nocturne+from+a+memory;And+the+night+slips+into+my+woven+dream" alt="Typing SVG" /></a>
+  
 <h1 align="center"> </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=708FC0&style=for-the-badge&label=THE+LOST+SOULS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=8C83E7&style=for-the-badge&label=FALLEN+SOLDIERS" alt="Profile Views" />
 </p>
 
 <div align="center">

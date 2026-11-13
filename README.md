@@ -37,7 +37,7 @@
 </table>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Germania+One&size=25&duration=5510&pause=1000&color=8C83E7&center=true&width=500&lines=Now+home+the+soldiers%2C+now+the+fallen+leaves;Farewell%2C+go+somewhere+bright+meteors+lead;Now+sounds+the+nocturne+from+a+memory;And+the+night+slips+into+my+woven+dream" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=43&pause=1000&color=8C83E7&center=true&vCenter=true&width=915&height=70&lines=%22The+one+who+lives+is+the+one+left+with+all+the+pain%2C+aren't+they%3F%22" alt="Typing SVG" /></a>
 
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=8C83E7&style=for-the-badge&label=FALLEN+SOLDIERS" alt="Profile Views" />

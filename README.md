@@ -6,11 +6,14 @@
 𝙻𝚘𝚛𝚎𝚒𝚗𝚔🪽 • 𝚜𝚑𝚎/𝚝𝚑𝚎𝚢 • 21+ 𝚢.𝚘
 <p align="center">
 𝚅𝚐𝚎𝚗 𝚊𝚛𝚝𝚒𝚜𝚝 • 𝙾𝙲 𝚖𝚊𝚔𝚎𝚛 
-<div align="center"> 
-<a href="https://github.com/pt-hall-of-media">𝙿𝚘𝚗𝚢𝚝𝚘𝚠𝚗'𝚜 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑</a>
-<p align="center"> 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽
-𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝚜𝚑𝚊𝚛𝚎
-  <p align="center">
+<div align="center">
+𝐓𝐇𝐄 𝐔𝐍𝐂𝐋𝐄𝐒
+<p align="center">
+<a href="https://github.com/CONCHIGLIONl">𝕮𝖔𝖓𝖈𝖍𝖎𝖌𝖑𝖎𝖔𝖓𝖎</a>
+  🍻
+<a href="https://github.com/MIKALJI">𝕸𝖎𝕶𝖆𝖑𝖏𝖎</a>
+</div>
+<div align="center">
 <details>
 <summary>𝕸𝖞 𝕯𝖆𝖗𝖑𝖎𝖓𝖌𝖘 .ᐟ.ᐟ </summary>
 <a href="https://github.com/falseprecedent">𝚁𝚎𝚛𝚢𝚗/𝚉𝚎𝚕𝚎𝚒</a> 
@@ -29,7 +32,7 @@
 <a href="https://github.com/thefa1thful">𝙲𝚊𝚕𝚡</a> ,
 <a href="https://github.com/reiningcloud">𝚁𝚎𝚒</a> 
 </details>
-
+  </div>
 </td>
 </table>
 
@@ -66,13 +69,15 @@
         <li> 𝐈'𝐦 𝐚 𝐛𝐥𝐨𝐜𝐤 𝐟𝐫𝐞𝐞 𝐩𝐞𝐫𝐬𝐨𝐧, 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐢𝐭 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥
         <li> 𝐆𝐢𝐟𝐭 𝐦𝐞 𝐒𝐞𝐩𝐡𝐢𝐫𝐨𝐭𝐡 𝐬𝐤𝐢𝐧 𝐢𝐟 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐢𝐭, 𝐈'𝐥𝐥 𝐜𝐫𝐞𝐝𝐢𝐭 𝐢𝐭
       </ul>
+     <tr>
+        <td>
+          <p align="center"> 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 .ᐟ.ᐟ 
+        <td>
+        <ul align="left">
+           <li> 𝐈'𝐦 𝐥𝐚𝐜𝐤 𝐨𝐟 𝐞𝐦𝐩𝐚𝐭𝐡𝐲 𝐬𝐨 𝐛𝐞𝐬𝐭 𝐭𝐨 𝐧𝐨𝐭 𝐚𝐭𝐭𝐚𝐜𝐡
+           <li> 𝐌𝐨𝐬𝐭 𝐨𝐟 𝐦𝐲 𝐡𝐨𝐧𝐞𝐬𝐭 𝐰𝐨𝐫𝐝/𝐨𝐩𝐢𝐧𝐢𝐨𝐧 𝐬𝐨𝐮𝐧𝐝 𝐫𝐮𝐝𝐞, 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐢𝐭 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐥𝐲
+             </ul>
 </table>
-
-<p align="center">
-<details>
-<summary> .ᐟ.ᐟ 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 .ᐟ.ᐟ </summary>
-𝐈'𝐦 𝐥𝐚𝐜𝐤 𝐨𝐟 𝐞𝐦𝐩𝐚𝐭𝐡𝐲 𝐬𝐨 𝐛𝐞𝐬𝐭 𝐭𝐨 𝐧𝐨𝐭 𝐚𝐭𝐭𝐚𝐜𝐡 ✦ 𝐌𝐨𝐬𝐭 𝐨𝐟 𝐦𝐲 𝐡𝐨𝐧𝐞𝐬𝐭 𝐰𝐨𝐫𝐝/𝐨𝐩𝐢𝐧𝐢𝐨𝐧 𝐬𝐨𝐮𝐧𝐝 𝐫𝐮𝐝𝐞, 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐢𝐭 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐥𝐲 </a>!
-</details>
 
 <img width="1500" height="500" alt="banner 2" src="https://github.com/user-attachments/assets/4d68cf69-cea4-4b0d-afde-16eb05b97266" />
 
@@ -80,13 +85,7 @@
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/42fb9aad5a6b25362c8c6952c1530d4c/9be5ce22e6f6127b-8a/s1280x1920/d856239de65c8538d5ae0078f59ae23c3f027dc7.gifv" />
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/ce5b6f3f0211da1168178bbeaa9013c3/98190e248365d9c4-ea/s540x810/cbe994224492b43abd659214901eb6c8c8f5c9b3.gifv" />
 </div>
-
-
-<h1 align="center">1𝖘𝖙 𝕮𝖑𝖆𝖘𝖘 𝕮𝖗𝖆𝖈𝕶𝖍𝖊𝖆𝖉</h1>
-<p align="center">
-<img width="551" height="482" alt="trios" src="https://github.com/user-attachments/assets/bc316b46-676c-4053-a529-9979f82d3a63" />
-<div align="center">
-<a href="https://github.com/CONCHIGLIONl">𝕮𝖔𝖓𝖈𝖍𝖎𝖌𝖑𝖎𝖔𝖓𝖎</a>
-  🍻
-<a href="https://github.com/MIKALJI">𝕸𝖎𝕶𝖆𝖑𝖏𝖎</a>
-</div>
+<div align="center"> 
+<a href="https://github.com/pt-hall-of-media">𝙿𝚘𝚗𝚢𝚝𝚘𝚠𝚗'𝚜 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑</a>
+<p align="center"> 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽
+𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝚜𝚑𝚊𝚛𝚎

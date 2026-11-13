@@ -88,3 +88,5 @@
 <a href="https://github.com/pt-hall-of-media">𝙿𝚘𝚗𝚢𝚝𝚘𝚠𝚗'𝚜 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑</a>
 <p align="center"> 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽
 𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝚜𝚑𝚊𝚛𝚎
+<p align="center">
+<img width="551" height="413" alt="ship 1" src="https://github.com/user-attachments/assets/78f7818e-4d69-4da0-9542-51431fe63d7c" />

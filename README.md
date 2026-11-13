@@ -74,6 +74,8 @@
 𝐈'𝐦 𝐥𝐚𝐜𝐤 𝐨𝐟 𝐞𝐦𝐩𝐚𝐭𝐡𝐲 𝐬𝐨 𝐛𝐞𝐬𝐭 𝐭𝐨 𝐧𝐨𝐭 𝐚𝐭𝐭𝐚𝐜𝐡 ✦ 𝐌𝐨𝐬𝐭 𝐨𝐟 𝐦𝐲 𝐡𝐨𝐧𝐞𝐬𝐭 𝐰𝐨𝐫𝐝/𝐨𝐩𝐢𝐧𝐢𝐨𝐧 𝐬𝐨𝐮𝐧𝐝 𝐫𝐮𝐝𝐞, 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐢𝐭 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐥𝐲 </a>!
 </details>
 
+<img width="1500" height="500" alt="banner 2" src="https://github.com/user-attachments/assets/4d68cf69-cea4-4b0d-afde-16eb05b97266" />
+
 <p align="center">
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/42fb9aad5a6b25362c8c6952c1530d4c/9be5ce22e6f6127b-8a/s1280x1920/d856239de65c8538d5ae0078f59ae23c3f027dc7.gifv" />
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/ce5b6f3f0211da1168178bbeaa9013c3/98190e248365d9c4-ea/s540x810/cbe994224492b43abd659214901eb6c8c8f5c9b3.gifv" />

@@ -43,8 +43,6 @@
   <img src="https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=8C83E7&style=for-the-badge&label=FALLEN+SOLDIERS" alt="Profile Views" />
 </p>
 
-<h1 align="center"> </h1>
-
 <table>
   <tr>
     <td> <img width="2048" height="1170" alt="banner 3" src="https://github.com/user-attachments/assets/cc295619-95da-4e65-853d-fa27105368d6" /> 

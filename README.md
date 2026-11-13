@@ -17,7 +17,10 @@
 <a href="https://github.com/CookieBonBon">𝙲𝚘𝚘𝚔𝚒𝚎𝚋𝚘𝚗</a> ,
 <a href="https://github.com/xooshi">𝚇𝚢𝚕</a> ,
 <a href="https://github.com/S0ULCAPTXRE">𝙽𝚎𝚜𝚜</a> ,
-<a href="https://github.com/mydeifies">𝙲𝚊𝚜𝚜𝚢</a> (𝚙𝚕𝚜 𝚌𝚘𝚖𝚎𝚋𝚊𝚌𝚔 𝙸 𝚖𝚒𝚜𝚜 𝚞 💔) ,
+<a href="https://github.com/mydeifies">𝙲𝚊𝚜𝚜𝚢</a>
+ <p align="center">
+  (𝚙𝚕𝚜 𝚌𝚘𝚖𝚎𝚋𝚊𝚌𝚔 𝙸 𝚖𝚒𝚜𝚜 𝚞 💔) ,
+   <p align="center">
 <a href="https://github.com/phainonirl">𝚈𝚒𝚗𝚕𝚎</a> ,
 <a href="https://github.com/Aku-romo">𝙰𝚔𝚞</a> ,
 <a href="https://github.com/Navistel">𝙽𝚊𝚟𝚒</a> ,
@@ -43,16 +46,25 @@
   <tr>
     <td> <img width="2048" height="1170" alt="banner 3" src="https://github.com/user-attachments/assets/cc295619-95da-4e65-853d-fa27105368d6" /> 
     <p align="center"> 𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓
+        <ul align="center">
+        <li> 𝐇𝐨𝐫𝐫𝐨𝐫 𝐠𝐚𝐦𝐞 𝐫𝐞𝐥𝐚𝐭𝐞𝐝
+        <li> 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐫𝐞𝐥𝐚𝐭𝐞𝐝
+        <li> 𝐌𝐚𝐧𝐠𝐚/𝐌𝐚𝐧𝐡𝐰𝐚/𝐌𝐚𝐧𝐡𝐮𝐚
+        <li> 𝐉𝐑𝐏𝐆 𝐫𝐞𝐥𝐚𝐭𝐞𝐝
+        <li> 𝐓𝐫𝐮𝐞 𝐜𝐫𝐢𝐦𝐞 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐫𝐢𝐞𝐬 
+        <li> 𝐕𝐭𝐮𝐛𝐞𝐫 𝐫𝐞𝐥𝐚𝐭𝐞𝐝
+        <li> 𝐇𝐨𝐛𝐛𝐲 𝐫𝐞𝐥𝐚𝐭𝐞𝐝 (𝐦𝐮𝐬𝐢𝐜 𝐠𝐞𝐧𝐫𝐞, 𝐚𝐫𝐭𝐬 & 𝐜𝐫𝐚𝐟𝐭 𝐞𝐭𝐜)
+      </ul>
     <td> <img width="2048" height="1170" alt="banner 5" src="https://github.com/user-attachments/assets/d6898644-48d7-426d-9b8b-e909deb0bf92" />
       <p align="center"> 𝐁𝐎𝐔𝐍𝐃𝐀𝐑𝐈𝐄𝐒
       <ul align="center">
-        <li> 𝐈 𝐚𝐥𝐰𝐚𝐲𝐬 𝐀𝐅𝐊 (𝐖2𝐈 𝐫𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐞𝐝)</li>
-        <li> 𝐂+𝐇 𝐚𝐥𝐥𝐨𝐰𝐞𝐝 𝐢𝐟 𝐈 𝐬𝐢𝐭 𝐚𝐥𝐨𝐧𝐞</li>
-        <li> 𝐌𝐮𝐥𝐭𝐢𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬</li>
-        <li> 𝐘𝐮𝐦𝐞𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬 (𝐟𝐫𝐢𝐞𝐧𝐝 𝐨𝐧𝐥𝐲)</li>
-        <li> 𝐍𝐨 𝐑𝐨𝐥𝐞𝐩𝐥𝐚𝐲 (𝐈'𝐦 𝐛𝐚𝐝 𝐚𝐭 𝐢𝐭)</li>
-        <li> 𝐈'𝐦 𝐚 𝐛𝐥𝐨𝐜𝐤 𝐟𝐫𝐞𝐞 𝐩𝐞𝐫𝐬𝐨𝐧, 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐢𝐭 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥</li>
-        <li> 𝐆𝐢𝐟𝐭 𝐦𝐞 𝐒𝐞𝐩𝐡𝐢𝐫𝐨𝐭𝐡 𝐬𝐤𝐢𝐧 𝐢𝐟 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐢𝐭, 𝐈'𝐥𝐥 𝐜𝐫𝐞𝐝𝐢𝐭 𝐢𝐭</li>
+        <li> 𝐈 𝐚𝐥𝐰𝐚𝐲𝐬 𝐀𝐅𝐊 (𝐖2𝐈 𝐫𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐞𝐝)
+        <li> 𝐂+𝐇 𝐚𝐥𝐥𝐨𝐰𝐞𝐝 𝐢𝐟 𝐈 𝐬𝐢𝐭 𝐚𝐥𝐨𝐧𝐞
+        <li> 𝐌𝐮𝐥𝐭𝐢𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬
+        <li> 𝐘𝐮𝐦𝐞𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬 (𝐟𝐫𝐢𝐞𝐧𝐝 𝐨𝐧𝐥𝐲)
+        <li> 𝐍𝐨 𝐑𝐨𝐥𝐞𝐩𝐥𝐚𝐲 (𝐈'𝐦 𝐛𝐚𝐝 𝐚𝐭 𝐢𝐭)
+        <li> 𝐈'𝐦 𝐚 𝐛𝐥𝐨𝐜𝐤 𝐟𝐫𝐞𝐞 𝐩𝐞𝐫𝐬𝐨𝐧, 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐢𝐭 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥
+        <li> 𝐆𝐢𝐟𝐭 𝐦𝐞 𝐒𝐞𝐩𝐡𝐢𝐫𝐨𝐭𝐡 𝐬𝐤𝐢𝐧 𝐢𝐟 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐢𝐭, 𝐈'𝐥𝐥 𝐜𝐫𝐞𝐝𝐢𝐭 𝐢𝐭
       </ul>
 </table>
 

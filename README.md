@@ -82,6 +82,7 @@
 <p align="center">
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/42fb9aad5a6b25362c8c6952c1530d4c/9be5ce22e6f6127b-8a/s1280x1920/d856239de65c8538d5ae0078f59ae23c3f027dc7.gifv" />
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/ce5b6f3f0211da1168178bbeaa9013c3/98190e248365d9c4-ea/s540x810/cbe994224492b43abd659214901eb6c8c8f5c9b3.gifv" />
+
 </div>
 <div align="center"> 
 <a href="https://github.com/pt-hall-of-media">𝙿𝚘𝚗𝚢𝚝𝚘𝚠𝚗'𝚜 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑</a>

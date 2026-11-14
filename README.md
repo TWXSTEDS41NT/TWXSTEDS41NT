@@ -16,6 +16,7 @@
 <div align="center">
 <details>
 <summary>𝕸𝖞 𝕯𝖆𝖗𝖑𝖎𝖓𝖌𝖘 .ᐟ.ᐟ </summary>
+<a href="https://github.com/TheCountVaxi">ᴠᴀxɪ</a> 
 <a href="https://github.com/falseprecedent">𝚁𝚎𝚛𝚢𝚗/𝚉𝚎𝚕𝚎𝚒</a> 
 <a href="https://github.com/CookieBonBon">𝙲𝚘𝚘𝚔𝚒𝚎𝚋𝚘𝚗</a> ,
 <a href="https://github.com/xooshi">𝚇𝚢𝚕</a> ,

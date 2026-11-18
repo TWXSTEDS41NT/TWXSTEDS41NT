@@ -3,7 +3,7 @@
     <td><img width="620" height="831" alt="image" src="https://github.com/user-attachments/assets/eec1d918-9e55-41e8-afa0-e3fd257ce616" />
     <td> <div align="center"> <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f8f2aeb6-c020-4ed3-8814-5e52395d39c6" />
     <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&duration=1&pause=1&color=8C83E7&center=true&multiline=true&repeat=false&width=435&lines=Loreink+%F0%9F%AA%BD+%E2%80%A2+Adult;Vgen+artist+%28comms+open%29" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sansf&duration=1&pause=1&color=8C83E7&center=true&multiline=true&repeat=false&width=435&lines=Loreink+%F0%9F%AA%BD+%E2%80%A2+Adult;Vgen+artist+%28comms+open%29" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">

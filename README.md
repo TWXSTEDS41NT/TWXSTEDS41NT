@@ -50,10 +50,9 @@
   <img src="https://komarev.com/ghpvc/?username=TWXSTEDS41NT&color=8C83E7&style=for-the-badge&label=FALLEN+SOLDIERS" alt="Profile Views" />
 </p>
 
-
-https://github.com/user-attachments/assets/a6670fe4-c6d0-4159-958e-cb3308d3f05b
-
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31rdt6p77gm5j2rpm7ta4k7cblwq">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31rdt6p77gm5j2rpm7ta4k7cblwq" alt="Data Card for Spotify">
+</a>
 
 <table>
   <tr>
@@ -87,8 +86,6 @@ https://github.com/user-attachments/assets/a6670fe4-c6d0-4159-958e-cb3308d3f05b
            <li> 𝐌𝐨𝐬𝐭 𝐨𝐟 𝐦𝐲 𝐡𝐨𝐧𝐞𝐬𝐭 𝐰𝐨𝐫𝐝/𝐨𝐩𝐢𝐧𝐢𝐨𝐧 𝐬𝐨𝐮𝐧𝐝 𝐫𝐮𝐝𝐞, 𝐝𝐨𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐢𝐭 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐥𝐲
              </ul>
 </table>
-
-<img width="1500" height="500" alt="banner 2" src="https://github.com/user-attachments/assets/4d68cf69-cea4-4b0d-afde-16eb05b97266" />
 
 <details>
 <summary>𝐘𝐨𝐮 𝐜𝐚𝐦𝐞 𝐭𝐡𝐢𝐬 𝐟𝐚𝐫, 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐲𝐮𝐦𝐞𝐬𝐥𝐨𝐩 𝐜𝐨𝐫𝐧𝐞𝐫 .ᐟ.ᐟ </summary>

@@ -91,11 +91,12 @@ https://github.com/user-attachments/assets/a6670fe4-c6d0-4159-958e-cb3308d3f05b
 
 <img width="1500" height="500" alt="banner 2" src="https://github.com/user-attachments/assets/4d68cf69-cea4-4b0d-afde-16eb05b97266" />
 
+<details>
+<summary>𝐘𝐨𝐮 𝐜𝐚𝐦𝐞 𝐭𝐡𝐢𝐬 𝐟𝐚𝐫, 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐲𝐮𝐦𝐞𝐬𝐥𝐨𝐩 𝐜𝐨𝐫𝐧𝐞𝐫 .ᐟ.ᐟ </summary>
 <p align="center">
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/42fb9aad5a6b25362c8c6952c1530d4c/9be5ce22e6f6127b-8a/s1280x1920/d856239de65c8538d5ae0078f59ae23c3f027dc7.gifv" />
 <img width="350" height="194" alt="gif" src="https://64.media.tumblr.com/ce5b6f3f0211da1168178bbeaa9013c3/98190e248365d9c4-ea/s540x810/cbe994224492b43abd659214901eb6c8c8f5c9b3.gifv" />
 
-</div>
 <div align="center"> 
 <a href="https://github.com/pt-hall-of-media">𝙿𝚘𝚗𝚢𝚝𝚘𝚠𝚗'𝚜 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑</a>
 <p align="center"> 𝚂𝚎𝚙𝚑𝚒𝚛𝚘𝚝𝚑 𝚢𝚞𝚖𝚎 🪽
